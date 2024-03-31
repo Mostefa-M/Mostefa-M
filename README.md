@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mostefa
 
-- 👀 I’m interested in the Cybersecurity Field and want to become an Ethical Hacker and performing Penetration Test.
+- 👀 I’m interested in the Cybersecurity Field and want to become an Ethical Hacker to perform Penetration Test.
 
 - 🌱 I started the Google Cybersecurity Professional Certificate alongside the training courses from TCM Academy (The Cyber Mentor) on Practical Ethical Hacking.
 
